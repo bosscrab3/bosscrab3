@@ -4,7 +4,7 @@
   
 
 # <div align="center">欢迎来到438寝室的毕业设计博客</div>  
-  
+  ## <div align="center">组员：林千钧，金皓天，王蔚</div> 
 
 - ### <div align="center">水下并联机器人🤖</div>  
 
@@ -13,5 +13,4 @@
 如果您有任何问题或建议，可以通过以下方式联系我：
 
 - 邮箱：2936371365@qq.com
-- LinkedIn: 林千钧
 
