@@ -65,9 +65,8 @@
 
 如果您有任何问题或建议，可以通过以下方式联系我：
 
-- 邮箱：your-email@example.com
-- Twitter: [@yourhandle](链接)
-- LinkedIn: [您的姓名](链接)
+- 邮箱：2936371365@qq.com
+- LinkedIn: 林千钧
 
 ## 📄 许可证
 
